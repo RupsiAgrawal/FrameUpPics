@@ -1,0 +1,2 @@
+rootProject.name = "FrameUp"
+include ':app'
